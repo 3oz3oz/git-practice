@@ -1,6 +1,6 @@
 import numpy as np
 
-# Generate sample dataset (normal distribution)
+# This is  branch A comment
 data = np.random.normal(loc=10, scale=2, size=100)
 
 print(f"Sample Mean: {np.mean(data):.2f}")
